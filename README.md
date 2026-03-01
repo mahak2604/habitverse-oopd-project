@@ -38,3 +38,14 @@ Core Classes:
 - Weekly Reports
 
 ## Folder Structure
+habitverse-oopd-project/
+│
+├── src/
+├── documentation/
+└── diagrams/
+
+## Developed By
+- Mahak Wadhawan
+- Yash Shah
+- Sanjeet Singh Tuteja
+- Anshumaan Sudan
